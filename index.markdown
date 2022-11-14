@@ -9,7 +9,7 @@ layout: default
 
 # Welcome to WRC East Bay! 💗🏃‍♀️🎉
 
-In the Fall of 2022 a few women runners in Oakland started talking about how we could come together to create a women’s run group in the East Bay. Women’s Run Club/Collective East Bay is evolving out of that! We don’t actually have an “official” name yet so let us know if you have suggestions :) This club is still in the forming stage and will be what we build together! This is a living document to share some thinking about who we are and what we could be with our community.
+In the Fall of 2022 a few women runners in Oakland started talking about how we could come together to create a women’s run group in the East Bay. Women’s Run Club/Collective East Bay is evolving out of that! We don’t actually have an “official” name yet so let us know if you have suggestions :) This club is still in the forming stage and will be what we build together! This is a living website to share some thinking about who we are and what we could be with our community.
 
 # Mission & Values
 Our mission is to foster a fun, accessible, come-as-you-are community for women and non-binary runners rooted in the East Bay. We want our club to uplift values of inclusion, local community engagement, & celebrating each other as athletes and people.
