@@ -5,7 +5,7 @@
 layout: default
 ---
 
-https://tinyurl.com/wrc-jointheteam
+[Click here to join the team!](https://tinyurl.com/wrc-jointheteam)
 
 # Welcome to WRC East Bay! 💗🏃‍♀️🎉
 
@@ -31,7 +31,7 @@ In the future we could incorporate as a non-profit if we think the structure wil
 
 # FAQ
 I have a friend who wants to join. How can I get them added to Slack? 
-Send them this form: https://tinyurl.com/wrc-jointheteam. Our onboarding committee will commit to adding in new folks on a monthly basis, but if you have a friend you know is waiting feel free to give Ali Glenesk or Nicole Churchill-Yup a nudge. 
+Send them this form: [https://tinyurl.com/wrc-jointheteam](https://tinyurl.com/wrc-jointheteam). Our onboarding committee will commit to adding in new folks on a monthly basis, but if you have a friend you know is waiting feel free to give Ali Glenesk or Nicole Churchill-Yup a nudge. 
 
 ## Who is leading WRC? Who will be a member of WRC in 2023?
 We don’t have a formal leadership structure yet - maybe we should have elections? That said, in case the context is helpful Aisling Grogan, Becca Roelofs and Nicole Churchill-Yip were early ideators for the group. In terms of membership for 2023: if you are in our Slack group, then you are a member. What membership will mean and what our community will look like is something that we will have to build together!
