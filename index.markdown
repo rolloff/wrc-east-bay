@@ -6,6 +6,8 @@ layout: default
 ---
 
 [Click here to join the team!](https://tinyurl.com/wrc-jointheteam)
+[Join us on Strava](https://www.strava.com/clubs/wrc-east-bay)
+[Connect on Instagram](https://www.instagram.com/wrceastbay/)
 
 # Welcome to WRC East Bay! 💗🏃‍♀️🎉
 
