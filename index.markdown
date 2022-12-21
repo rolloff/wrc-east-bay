@@ -6,7 +6,9 @@ layout: default
 ---
 
 [Click here to join the team!](https://tinyurl.com/wrc-jointheteam)
+
 [Join us on Strava](https://www.strava.com/clubs/wrc-east-bay)
+
 [Connect on Instagram](https://www.instagram.com/wrceastbay/)
 
 # Welcome to WRC East Bay! 💗🏃‍♀️🎉
@@ -29,7 +31,7 @@ Norming, forming, & storming as a club and maybe we can get some swag?!
 In the future we could incorporate as a non-profit if we think the structure will help us or charge a small membership fee if we have costs. 
 
 # FAQ
-I have a friend who wants to join. How can I get them added to Slack? 
+## I have a friend who wants to join. How can I get them added to Slack? 
 Send them this form: [https://tinyurl.com/wrc-jointheteam](https://tinyurl.com/wrc-jointheteam). Our onboarding committee will commit to adding in new folks on a monthly basis.
 
 ## Will this be competing with other East Bay run clubs? 
