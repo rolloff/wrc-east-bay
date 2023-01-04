@@ -43,6 +43,9 @@ We plan on scheduling road, track, and trail group runs. And there may be some m
 ## How do I find out about run meet ups?
 Join us on our Slack space!
 
+## Do I have to pay to join WRC? 
+Joining WRC is free.  We plan to offer some optional gear, such as uniforms, at cost to members. Ultimately, we aim to be transparent about where money we may collect for specific events or reasons is going.
+
 ## How can I help? 
 Inviting a friend to WRC, organizing ad-hoc runs in #run-meets in Slack while we get off the ground, and starting conversations in other WRC Slack channels is a great start. Beyond that, areas that will likely need help:
 - Creating a social media presence or maybe a website or listserv
