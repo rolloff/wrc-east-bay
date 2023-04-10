@@ -14,7 +14,7 @@ profile_picture:
 
 [Connect on Instagram](https://www.instagram.com/wrceastbay/)
 
-# Welcome to WRC East Bay! 💗🏃‍♀️🎉
+# Welcome to WRC East Bay! 💗
 
 In the Fall of 2022 a few women runners in Oakland started talking about how we could come together to create a women’s run group in the East Bay. Women’s Run Club East Bay evolved out of that! This club is still in a new stage and will be what we build together! This is a living website to share some thinking about who we are, how to join, and how we may grow in community.
 
