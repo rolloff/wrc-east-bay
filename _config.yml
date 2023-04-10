@@ -36,6 +36,10 @@ header:
 
 footer:
   show_powered_by: false
+  contact:
+    - name: Email
+      value: Send us an Instagram DM!
+      link: https://instagram.com/wrceastbay
   follow:
     - name: Instagram
       link: https://instagram.com/wrceastbay
