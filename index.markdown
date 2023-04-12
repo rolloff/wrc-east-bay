@@ -30,6 +30,6 @@ Our club is what we build together. Since we are new, we don't have 100% of thin
 - We host weekday runs in Oakland and weekend runs at rotating locations around the East Bay. Once you join please do make an effort to come on out and join us in person! 
 - Our Slack forum is active with planning ad hoc meet-ups, discussing training, postpartum/injury recovery journeys, volunteering/community engagement opportunities, gear swap & more!
 
-In the future we could incorporate as a non-profit if we think the structure will help us or charge a small membership fee if we have costs.
+In the future we could incorporate as a non-profit if we think the structure will help us or charge a small fee if we have costs.
 
 # Thank you and let’s do this!🦄
