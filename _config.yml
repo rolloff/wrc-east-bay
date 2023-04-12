@@ -20,13 +20,11 @@
 
 title: Women's Run Club East Bay
 description: >- # this means to ignore newlines until "baseurl:"
-  A come-as-you-are run club rooted in the East Bay.
+  A come-as-you-are women's run club rooted in the East Bay.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jekyllrb
 github_username:  jekyll
-github:
-  is_project_page: false
 
 header:
   pages:
