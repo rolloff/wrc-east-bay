@@ -21,9 +21,6 @@ In the Fall of 2022 a few women runners in Oakland started talking about how we 
 # Mission & Values
 Our mission is to foster a fun, accessible, come-as-you-are community for women and non-binary runners rooted in the East Bay. We want our club to uplift values of inclusion, local community engagement, & celebrating each other as athletes and people.
 
-# What
-A lot of what our club becomes will be what we build together, so some (many?!) things aren’t planned yet. For now we have a Slack space and we’ll aim to kick off some more formal programming in the new year. 
-
 # Logistics
 Our club is what we build together. Since we are new, we don't have 100% of things planned perfectly and are trying things to see what works (let's learn, shift, and grow together) <3 This is what we have planned in 2023:
 - Our club is free to join (we don’t have any costs yet). After you sign up we'll add you to our Slack workspace where we coordinate and communicate, and to our mailing list where we send one email monthly.
