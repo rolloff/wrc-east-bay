@@ -18,16 +18,34 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Women's Run Club - East Bay
+title: Women's Run Club East Bay
 description: >- # this means to ignore newlines until "baseurl:"
-  Women's run club based out of the East Bay.
+  A come-as-you-are women's run club rooted in the East Bay.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jekyllrb
 github_username:  jekyll
 
+header:
+  pages:
+    - name: Home
+      slug: /    
+    - name: FAQ
+
+footer:
+  show_powered_by: false
+  contact:
+    - name: Email
+      value: Send us an Instagram DM!
+      link: https://instagram.com/wrceastbay
+  follow:
+    - name: Instagram
+      link: https://instagram.com/wrceastbay
+    - name: Strava
+      link: https://www.strava.com/clubs/wrc-east-bay
+
 # Build settings
-remote_theme: pages-themes/cayman@v0.2.0
+remote_theme: eliottvincent/bay
 plugins:
   - jekyll-remote-theme
   - jekyll-feed
