@@ -31,6 +31,7 @@ header:
     - name: Home
       slug: /    
     - name: FAQ
+    - name: Schedule
 
 footer:
   show_powered_by: false
