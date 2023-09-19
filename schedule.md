@@ -13,13 +13,13 @@ While our Instagram and Slack are the best places to find the most up to date sc
 ### Thursday Alameda
 - Meeting location: Signal Coffee (2318 Central Ave)
 - Time: 6:30AM
-- Pace: typically ~10:30 min/mile+
+- Pace: typically ~9:30 min/mile+
 - Distance: 4 miles
 
 ### Thursday Berkeley
 - Meeting location: varies
 - Time: 6:30AM
-- Pace: typically ~8:30 min/mile
+- Pace: typically ~8:30 min/mile+
 - Distance: 4 miles
 
 ### Friday Community Run
