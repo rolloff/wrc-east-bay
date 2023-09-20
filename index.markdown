@@ -16,17 +16,14 @@ profile_picture:
 
 # Welcome to WRC East Bay! 💗
 
-In the Fall of 2022 a few women runners in Oakland started talking about how we could come together to create a women’s run group in the East Bay. Women’s Run Club East Bay evolved out of that! This club is still in a new stage and will be what we build together! This is a living website to share some thinking about who we are, how to join, and how we may grow in community.
+In the Fall of 2022 a few women runners in Oakland started talking about how we could come together to create a women’s run group in the East Bay. Women’s Run Club East Bay evolved out of that! This is a living website to share some thinking about who we are, how to join, and how we may grow in community.
 
 # Mission & Values
 Our mission is to foster a fun, accessible, come-as-you-are community for women and non-binary runners rooted in the East Bay. We want our club to uplift values of inclusion, local community engagement, & celebrating each other as athletes and people.
 
 # Logistics
-Our club is what we build together. Since we are new, we don't have 100% of things planned perfectly and are trying things to see what works (let's learn, shift, and grow together) <3 This is what we have planned in 2023:
-- Our club is free to join (we don’t have any costs yet). After you sign up we'll add you to our Slack workspace where we coordinate and communicate, and to our mailing list where we send one email monthly.
+- Our club is free to join. After you sign up we'll add you to our Slack workspace where we coordinate and communicate, and to our mailing list where we send one email monthly.
 - We host weekday runs in Oakland and weekend runs at rotating locations around the East Bay. Once you join please do make an effort to come on out and join us in person! 
 - Our Slack forum is active with planning ad hoc meet-ups, discussing training, postpartum/injury recovery journeys, volunteering/community engagement opportunities, gear swap & more!
-
-In the future we could incorporate as a non-profit if we think the structure will help us or charge a small fee if we have costs.
 
 # Thank you and let’s do this!🦄
