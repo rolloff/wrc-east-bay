@@ -1,5 +1,5 @@
 # Weekly Runs
-While our Instagram and Slack are the best places to find the most up to date scheduling info, below is a typical week - c'mon out!
+While our Instagram and Slack are the best places to find the most up to date scheduling info, below is a typical week. We've included typical paces so you know what to expect. We do our best to welcome newcomers at each and every run, and to support teammates at many places in their running journey. If we don't have a run that fits your pace or schedule yet, hopefully we will in the future - hey maybe you can lead it!
 
 ### Tuesday Hills
 - Meeting location: Timeless on Piedmont Ave
@@ -29,4 +29,4 @@ While our Instagram and Slack are the best places to find the most up to date sc
 - Distance: 3 and 4 mile routes
 
 # Monthly Runs
-Each month brings some variety: stroller run, trail runs, afternoon running, newcomer nights and joining up with running groups around our vibrant east bay community!
+Each month brings some variety: stroller run, trail runs, afternoon running, newcomer nights and joining up with running groups around our vibrant East Bay community!
