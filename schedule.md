@@ -25,7 +25,7 @@ While our Instagram and Slack are the best places to find the most up to date sc
 ### Friday Community Run
 - Meeting location: Mother Tongue Cafe + Bar in Temescal
 - Time: 6:30AM
-- Pace: pace groups for 10:30 min/mile and 12:30+ min/mile
+- Pace: This is a great run for all paces from our fast flyers to our party pacers. At this run we have dedicated pace groups for 10:30 min/mile and 12:30+ min/mile.
 - Distance: 3 and 4 mile routes
 
 # Monthly Runs
