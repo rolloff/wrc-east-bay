@@ -4,7 +4,7 @@ While our Instagram and Slack are the best places to find the most up to date sc
 
 ### Tuesday Hills
 
-- Meeting location: Timeless on Piedmont Ave
+- Meeting location: Ain't Normal Cafe
 - Time: 6:30AM
 - Pace: typically ~9:30 min/mile, slower on the uphill!
 - Distance: 4.5 miles
