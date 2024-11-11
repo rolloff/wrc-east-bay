@@ -8,7 +8,7 @@ profile_picture:
   alt: group of women in running gear circled up
 ---
 
-[Click here to join the team!](https://docs.google.com/forms/d/e/1FAIpQLScnqT7APHR2hv0zQ0CRCz3Q3n0GZjd06Ejv1U2jp_5GA2fN7g/viewform)
+Check back soon for the link to join our team in 2025! We take a break from onboarding new members at the end of the year.
 
 [Join us on Strava](https://www.strava.com/clubs/wrc-east-bay)
 

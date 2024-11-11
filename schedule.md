@@ -4,8 +4,8 @@ While our Instagram and Slack are the best places to find the most up to date sc
 
 ### Tuesday Hills
 
-- Meeting location: Ain't Normal Cafe
-- Time: 6:30AM
+- Meeting location: Timeless on Piedmont
+- Time: 6:25AM for intros, 6:30 start
 - Pace: typically ~9:30 min/mile, slower on the uphill!
 - Distance: 4.5 miles
 
@@ -22,8 +22,8 @@ While our Instagram and Slack are the best places to find the most up to date sc
 
 ### Friday Community Run
 
-- Meeting location: Mother Tongue Cafe + Bar in Temescal
-- Time: 6:30AM, option to arrive at 6:20AM for warm-ups
+- Meeting location: Rotating location
+- Time: 6:30AM
 - Pace: This is a great run for all paces from our fast flyers to our party pacers. At this run we have dedicated pace groups for 10:30 min/mile and 12:30+ min/mile.
 - Distance: 3 and 4 mile routes
 
