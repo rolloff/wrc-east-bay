@@ -11,7 +11,9 @@ While our Instagram and Slack are the best places to find the most up to date sc
 
 ### Workout Wednesday
 
-- Location Varies :)
+- Meeting location: Witter Field
+- Time: Folks arrive between 6 and 6:15 to start warming up
+- Pace and Distance vary. Bring your own workout or join a friends!
 
 ### Thursday Alameda
 
