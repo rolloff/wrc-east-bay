@@ -1,6 +1,6 @@
 # FAQ
 ## I have a friend who wants to join. How can I get them added to Slack? 
-Send them this form: [https://tinyurl.com/wrc-jointheteam](https://tinyurl.com/wrc-jointheteam). Our onboarding committee will commit to adding in new folks on a monthly basis.
+Send them this form: [https://tinyurl.com/wrc-2025](https://docs.google.com/forms/d/e/1FAIpQLSdEohPHoGw8SA2ezmdbJMX7MZsHaGWnIaEesEaP83gVTA6JhA/viewform). We onboard new team members monthly January through October each year.
 
 ## When you say a run is "no-drop" what do you mean by that? 
 For some of our affinity runs, like the stroller run or our women of color run, no drop means we usually all run together. We also advertise our Friday morning run as "no drop". At this run we all introduce ourselves before starting out. Teammates share expected pace to make it easy to buddy up. Once we start running we don't all stay together and have runners setting out at a variety of paces. For our Friday run we also have a dedicated 12:30+ pace group with a weekly leader. This is our way of making sure no one is "dropped" or left behind while also having folks set it out at a variety of paces.
