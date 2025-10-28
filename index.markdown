@@ -8,7 +8,7 @@ profile_picture:
   alt: group of women in running gear circled up
 ---
 
-[Click here to join the 2025 team](https://docs.google.com/forms/d/e/1FAIpQLSdEohPHoGw8SA2ezmdbJMX7MZsHaGWnIaEesEaP83gVTA6JhA/viewform?usp=preview) We onboard new members monthly January-October each year.
+[Click here to join the 2025 team](https://docs.google.com/forms/d/e/1FAIpQLSdEohPHoGw8SA2ezmdbJMX7MZsHaGWnIaEesEaP83gVTA6JhA/viewform?usp=preview) We onboard new members monthly January-October each year. We've now closed onboarding for 2025 - come back soon to join for 2026!
 
 [Join us on Strava](https://www.strava.com/clubs/wrc-east-bay)
 
