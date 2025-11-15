@@ -8,7 +8,7 @@ profile_picture:
   alt: group of women in running gear circled up
 ---
 
-[Click here to join the 2025 team](https://docs.google.com/forms/d/e/1FAIpQLSdEohPHoGw8SA2ezmdbJMX7MZsHaGWnIaEesEaP83gVTA6JhA/viewform?usp=preview) We onboard new members monthly January-October each year. We've now closed onboarding for 2025 - come back soon to join for 2026!
+[Click here to join the 2026 team](https://docs.google.com/forms/d/e/1FAIpQLSdXQ64-8PVXIVZ13ADIcQx1Pq8aYjIC3u2L3Q0Z4rt_Im0B4A/viewform) We onboard new members officially to our mailing list and slack space three times a year: at the start of the year January and February, mid-year in April and May, and at the start of fall in September. New teammates are welcome and encouraged to join us in-person anytime.
 
 [Join us on Strava](https://www.strava.com/clubs/wrc-east-bay)
 
